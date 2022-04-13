@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
